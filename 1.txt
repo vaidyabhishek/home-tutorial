@@ -1,2 +1,6 @@
 hi my name is lavdya !!!!
+<<<<<<< HEAD
 hello world
+=======
+hvhcchc
+>>>>>>> 9d1923407dbb978a41942f0e93202c3395c16f37
